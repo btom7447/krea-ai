@@ -75,8 +75,7 @@ export default function FluxCarousel() {
 
             {/* Swiper Carousel */}
             <Swiper
-                modules={[Autoplay, Navigation]}
-                autoplay={{ delay: 3000, disableOnInteraction: false }}
+                modules={[Navigation]}
                 navigation={{
                 nextEl: ".custom-next",
                 prevEl: ".custom-prev",
