@@ -53,7 +53,7 @@ export default function FluxCarousel() {
                     FLUX.1 Krea
                 </h5>
                 <p
-                    className="text-sm lg:text-md text-white max-w-xl"
+                    className="hidden text-sm lg:block lg:text-md text-white max-w-xl"
                     data-aos="fade-down"
                     data-aos-delay="800"
                 >

@@ -40,7 +40,7 @@ export default function WannCarousel() {
                     >
                         WAN 2.2 Image generation
                     </h5>
-                    <p className="text-sm lg:text-md text-white max-w-xl"
+                    <p className="hidden text-sm lg:block lg:text-md text-white max-w-xl"
                         data-aos="fade-up"
                         data-aos-delay="800"
                     >
